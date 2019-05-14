@@ -1,0 +1,3 @@
+const appvars = {
+  'firstLanguage': 'en',
+};
